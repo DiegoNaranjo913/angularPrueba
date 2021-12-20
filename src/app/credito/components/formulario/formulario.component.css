@@ -1,0 +1,14 @@
+
+.content{
+    margin-top: 5rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boton-submit{
+    background: #002bc5;
+    color: white;
+    float: right;
+}
